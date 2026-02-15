@@ -1,0 +1,16 @@
+# BookStack data and database
+data/
+db/
+
+# Logs
+logs/
+
+# Environment files with credentials
+.env
+.env.api
+
+# Internal context doc (contains system-specific paths)
+openclaw-bookstack-context.md
+
+# Docker volumes
+docker-compose.override.yml
